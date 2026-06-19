@@ -73,22 +73,22 @@ Retail leadership needs visibility into:
 ### 1. High Revenue Doesn't Guarantee High Profit
 A 4.76% profit margin on 322.97K in sales shows top-line growth isn't automatically translating to the bottom line.
 
-**Recommendation:** Conduct margin analysis by individual product line, not just category, to find where discounting or cost overhead is eroding profit.
+* **Recommendation:** Conduct margin analysis by individual product line, not just category, to find where discounting or cost overhead is eroding profit.
 
 ### 2. Regional Revenue Doesn't Match Regional Profitability
 All three regions show comparable revenue (~100K–111K each), but profitability diverges sharply — pointing to cost differences worth investigating at the regional level.
 
-**Recommendation:** Compare operating costs (logistics, staffing) across regions to identify where margin is being lost.
+* **Recommendation:** Compare operating costs (logistics, staffing) across regions to identify where margin is being lost.
 
 ### 3. Payment Methods Are Nearly Evenly Split — But Not Equal in Value
 Cash (34.74%), E-wallet (34.06%), and Credit Card (31.2%) are close in share, but cash transactions consistently have the largest average basket size (326.18).
 
-**Recommendation:** Promote digital payment incentives without removing cash options, since cash customers are currently the highest-value segment.
+* **Recommendation:** Promote digital payment incentives without removing cash options, since cash customers are currently the highest-value segment.
 
 ### 4. Peak Hours Are Predictable and Actionable
 Friday and Saturday drive the highest weekly order volume (164 and 133 orders respectively).
 
-**Recommendation:** Align staff scheduling with these peak days and hours to reduce wait times and support CSAT scores.
+* **Recommendation:** Align staff scheduling with these peak days and hours to reduce wait times and support CSAT scores.
 
 ---
 
@@ -97,10 +97,10 @@ Friday and Saturday drive the highest weekly order volume (164 and 133 orders re
 supermarket-sales-dashboard/
 │
 ├── Supermarket_Sales.pbix          # Power BI Dashboard file
-├── supermarket_sales-Sheet1.csv       # Raw dataset
-├── sales_performance.png
-├── operations_customer.png
-└── README.md
+├── supermarket_sales-Sheet1.csv    # Raw dataset
+├── sales_performance.png           # Dashboard preview image 1
+├── operations_customer.png         # Dashboard preview image 2
+└── README.md                       #Documentation
 ```
 ---
 
