@@ -7,10 +7,10 @@
 ## 🖼️ Dashboard Preview
 
 **View 1 — Sales & Performance Overview**
-![Sales Dashboard](./assets/sales_performance.png)
+![Sales Dashboard](./sales_performance.png)
 
 **View 2 — Operations & Customer Insights**
-![Operations Dashboard](./assets/operations_customer.png)
+![Operations Dashboard](./operations_customer.png)
 
 ---
 
@@ -97,10 +97,8 @@ Friday and Saturday drive the highest weekly order volume (164 and 133 orders re
 supermarket-sales-dashboard/
 │
 ├── Supermarket_Sales.pbix          # Power BI Dashboard file
-├── Data/
-│   └── supermarket_sales-Sheet1.csv       # Raw dataset
-├── assets/
-│   ├── sales_performance.png
-│   └── operations_customer.png
+├── supermarket_sales-Sheet1.csv       # Raw dataset
+├── sales_performance.png
+├── operations_customer.png
 └── README.md
 ```
