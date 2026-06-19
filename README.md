@@ -47,12 +47,12 @@ Retail leadership needs visibility into:
 
 ## 📈 View 1: Sales & Performance Insights
 
-**KPIs:** Total Sales ($322.97K) · Total Profit ($15.38K) · Profit Margin (4.76%) · Avg Order Value ($322.97) · Unique Customers (1K)
+**KPIs:** Total Sales (322.97K) · Total Profit (15.38K) · Profit Margin (4.76%) · Avg Order Value (322.97) · Unique Customers (1K)
 
 - **Daily Revenue Trend** — tracks cumulative revenue growth from Jan–Mar 2019
 - **Regional Revenue vs. Profitability** — compares revenue and profit across Naypyitaw, Yangon, and Mandalay to identify where margins hold up and where they don't
 - **Weekly Sales & Profit Analysis** — correlates sales volume with profit over time
-- **Revenue by Product Category** — ranks 6 categories by revenue (Food & Beverages leads at $56.14K)
+- **Revenue by Product Category** — ranks 6 categories by revenue (Food & Beverages leads at 56.14K)
 
 ---
 
@@ -71,7 +71,7 @@ Retail leadership needs visibility into:
 ## 💡 Key Business Insights
 
 ### 1. High Revenue Doesn't Guarantee High Profit
-A 4.76% profit margin on $322.97K in sales shows top-line growth isn't automatically translating to the bottom line.
+A 4.76% profit margin on 322.97K in sales shows top-line growth isn't automatically translating to the bottom line.
 
 **Recommendation:** Conduct margin analysis by individual product line, not just category, to find where discounting or cost overhead is eroding profit.
 
@@ -81,7 +81,7 @@ All three regions show comparable revenue (~100K–111K each), but profitability
 **Recommendation:** Compare operating costs (logistics, staffing) across regions to identify where margin is being lost.
 
 ### 3. Payment Methods Are Nearly Evenly Split — But Not Equal in Value
-Cash (34.7%), E-wallet (34%), and Credit Card (31%) are close in share, but cash transactions consistently have the largest average basket size ($326.18).
+Cash (34.74%), E-wallet (34.06%), and Credit Card (31.2%) are close in share, but cash transactions consistently have the largest average basket size (326.18).
 
 **Recommendation:** Promote digital payment incentives without removing cash options, since cash customers are currently the highest-value segment.
 
@@ -102,3 +102,9 @@ supermarket-sales-dashboard/
 ├── operations_customer.png
 └── README.md
 ```
+---
+
+## 🤝 Connect with Me
+
+* 💼 **LinkedIn:** [Mitali Ramteke](https://www.linkedin.com/in/mitali-ramteke-141679m)
+* ✉️ **Email:** mitali.ramteke14@gmail.com
